@@ -1,4 +1,4 @@
-name: getbluback.com
+name: bluback.com
 favicon: null
 layout_spectrum: 0.25444
 typography_spectrum: 0.74685
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#fefefe'
+    - '#ae8875'
+    - '#5a413a'
+    - '#2c180d'
+    - '#2cb1e9'
   brandStrength: 0.4375
   lightness: 0.43223767285235226
   saturation: 0.45770307001657784
