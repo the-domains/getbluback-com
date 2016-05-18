@@ -1,0 +1,28 @@
+name: getbluback.com
+favicon: null
+layout_spectrum: 0.4423455686774105
+typography_spectrum: 0.41496516996994615
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9004129830282182
+  lightness: 0.43223767285235226
+  saturation: 0.45770307001657784
+  rhythmicContrast: 0.49746500281617045
+purpose: []
