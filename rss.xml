@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[getbluback.com]]></title>
+        <description><![CDATA[getbluback.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 18 May 2016 00:43:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BluBack]]></title>
+            <description><![CDATA[<article><h1>BluBack</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ebe4706-ceb5-4866-a000-f61b55e5c641.jpg"></article>]]></description>
+            <link>undefinedbluback/index.html</link>
+            <guid isPermaLink="false">0cb143c9-b9ea-4086-a36c-e691cad9f7e0</guid>
+            <pubDate>Wed, 18 May 2016 00:43:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
