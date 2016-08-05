@@ -1,20 +1,9 @@
 name: bluback.com
-favicon: null
 layout_spectrum: 0.25444
 typography_spectrum: 0.74685
-title: 'Get blu back '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+cta: {}
+analytics: {}
+opengraph: {}
 color:
   brandColors:
     - '#624541'
@@ -27,3 +16,4 @@ color:
   saturation: 0.4375
   rhythmicContrast: 0.25
 purpose: []
+title: 'Get blu back '
